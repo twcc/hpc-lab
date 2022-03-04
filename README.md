@@ -14,3 +14,11 @@ This year, we focus on following tasks to seek out best-practice over Taiwania-2
 |                                	|          Efficient Net          	|            	|                         	|             	|
 |                                	|           Inception v3          	|            	|                         	|             	|
 |                                	| UNet Medical Image Segmentation 	|            	|                         	|             	|
+
+
+Tasks will follow [MLCommons](https://mlcommons.org/en/) and [NVIDIA Deep Learning](https://github.com/NVIDIA/DeepLearningExamples), including:
+- [MLPerf Train HPC track](https://mlcommons.org/en/training-hpc-10/) (3 tasks)
+- [MLPerf Train track](https://mlcommons.org/en/training-normal-11/) (8 tasks)
+- NVIDIA Deep Learning (9 selected tasks)
+	
+All results and percedures will be documented accordingly.
